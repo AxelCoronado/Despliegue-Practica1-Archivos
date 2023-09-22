@@ -1,0 +1,11 @@
+---
+mysql_root_password: ""
+app_user: "administrador"            # Usuario del servidor
+http_host: "acoronado.com"      # Nombre del sitio
+http_conf: "aacoronado.com.conf" # Nombre del archivo de configuracion del sitio
+http_conf_app: "bacoronado.com.conf"
+http_port: "80"             # Puerto en el que se habilitar
+disable_default: true       # Sabe que sea
+db_name: "formularioDB"
+name_new_user_db: "ricardo"   # Nombre de usuario con el que se conectara a la base de datos
+pass_new_user_db: "123"
